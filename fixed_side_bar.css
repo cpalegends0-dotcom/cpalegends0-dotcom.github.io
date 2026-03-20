@@ -1,6 +1,6 @@
 body {
   padding: 0;
-  height: 700px;
+  height: 600px;
 }
 /* The sidebar menu */
 .sidenav {
@@ -38,8 +38,7 @@ body {
 
 /* Style page content */
 .main-1 {
-  width: 500px;
-  height: 390px;/* Same as the width of the sidebar */
+
   padding: 10px 10px;
   border: 5px solid;
   border-radius: 10px;
@@ -53,10 +52,10 @@ body {
 .container {
   display: flex;
   gap: 30px;
+  align-items: center;
+  justify-content: center;
 }
 .main-2 {
-  width: 500px;
-  height: 390px;
   padding: 10px 10px;
   border: 5px solid;
   border-radius: 10px;
