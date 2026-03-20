@@ -103,7 +103,7 @@ body {
 @media screen and (max-width: 670px) { /* as soon as the width exceeds this value, the layout goes back to its initial state*/
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 15px;}
-  .nav a {flex: 100%; font-size: 15px;}
+  .nav a {flex: 100%; font-size: 13px;}
   .nav span {flex: 100%; font-size: 13px;}
   .footer {font-size: 10px;}
   .sidenav h1 {font-size: 20px;}
